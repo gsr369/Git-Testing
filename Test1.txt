@@ -12,3 +12,6 @@ It was sunny
 It was benny
 
 >>>>>>> 59d1c8c2adc9bbe78be3ef7cca81141e7fcceab1
+======
+1
+2
