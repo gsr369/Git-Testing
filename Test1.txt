@@ -1,4 +1,14 @@
+<<<<<<< HEAD
+Hey it was ben
+=======
 Hi this is ane
 I have to add some more text
 Sample testing 1
+<<<<<<< HEAD
 It was sunny
+=======
+>>>>>>> 4f56b4f1d57d710e7f983f031e0379a7f9710b5c
+
+It was benny
+
+>>>>>>> 59d1c8c2adc9bbe78be3ef7cca81141e7fcceab1
