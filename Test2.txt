@@ -5,3 +5,6 @@ Sample branch
 Check in
 Testing one
 Testing two
+
+=============
+git 1
