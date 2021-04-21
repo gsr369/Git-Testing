@@ -5,3 +5,6 @@ Hi this is ane
 I have to add some more text
 Sample testing 1
 >>>>>>> 4f56b4f1d57d710e7f983f031e0379a7f9710b5c
+
+It was benny
+
