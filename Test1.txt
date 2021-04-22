@@ -1,8 +1,5 @@
 ben
 one
-<<<<<<< .merge_file_a11568
-This benny my man
-=======
-two
-this is sunny my man
->>>>>>> .merge_file_a10184
+Okay Okay just testing reverting code
+
+
